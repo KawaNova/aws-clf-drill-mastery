@@ -1,0 +1,46 @@
+# Google Play Console Data Safety Declaration
+app_name: "AWS Drill - CLF-C02 Exam Prep"
+package_name: "com.kawanova.awsclfdrill"
+version: "1.0.0"
+
+data_collection:
+  collected: false
+  shared: false
+  details:
+    - category: "Personal info"
+      collected: false
+      shared: false
+    - category: "Financial info"
+      collected: false
+      shared: false
+    - category: "Location"
+      collected: false
+      shared: false
+    - category: "Photos and videos"
+      collected: false
+      shared: false
+    - category: "Audio files"
+      collected: false
+      shared: false
+    - category: "Files and docs"
+      collected: false
+      shared: false
+    - category: "App activity"
+      collected: false
+      shared: false
+    - category: "App info and performance"
+      collected: false
+      shared: false
+    - category: "Device or other IDs"
+      collected: false
+      shared: false
+
+advertising:
+  ad_network: "None"
+  ad_types: []
+  data_handling: "No ad networks integrated. Zero telemetry."
+
+security_practices:
+  data_encrypted_in_transit: true
+  data_deletion_request_supported: false
+  target_age_group: "13+"

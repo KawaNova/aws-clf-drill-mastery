@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0F172A</color>
+    <color name="aws_orange">#FF9900</color>
+    <color name="aws_gold">#FBBF24</color>
+    <color name="aws_squid_ink">#232F3E</color>
+    <color name="aws_bg">#0F172A</color>
+    <color name="aws_surface">#1E293B</color>
+</resources>
